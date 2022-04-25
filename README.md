@@ -1,7 +1,7 @@
 # daydream
 ## 国家
-- [美国](./America)
-- [加拿大](./Canada)
+- [美国](./America/index.md)
+- [加拿大](./Canada/index.md)
 
 ## 留学
 
