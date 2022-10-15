@@ -1,5 +1,7 @@
 ## 移民
 
+![cannada](https://user-images.githubusercontent.com/46807600/195972043-c0cfb3e0-9be6-468d-bbd0-bf558908c83c.jpg)
+
 ### 快速通道（Express Entry）
 
 首先要进入池子表达移民意向，分数达到邀请线就可以提交正式的移民申请，加拿大大部分的移民配额给到了快速通道，并且大部分快速通道的申请会在半年内审批完毕
