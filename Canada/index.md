@@ -98,14 +98,22 @@ OINP 雇主担保类
 
 #### 听
 软性：voicetube、popcorn time、轻听英语、TED
+
 硬性：Simon网课、《剑雅真题》、《雅思王听力》、《王陆语料库》
 #### 说
 软性：英语户外
+
 硬性：雅思哥题库、口语一对一
 #### 读
 软性：英文原著、外国技术网站和期刊、扇贝百词斩、quora.com
-硬性：Simon网课、Bellona视频、《剑雅真题》
+
+硬性：Simon网课、Bellona视频、《剑雅真题》、procon.org（分析热点时事）
 #### 写
 软性：技术论坛
+
 硬性：Simon网课/范文、testbig.com（语法检测网）、procon.org（分析热点时事）
+
+### English & Technolege
+
+https://github.com/conanhujinming/tips_for_interview/blob/master/README-zh_CN.md#%E4%B8%80%E4%BA%9B%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E6%8E%A8%E8%8D%90
 
